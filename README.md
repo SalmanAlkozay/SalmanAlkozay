@@ -46,9 +46,7 @@ HTML | CSS | JavaScript | React | Python | Django | Tailwind CSS | Git | GitHub 
 ## 📫 How to reach me
 - Email: sk8621489@gmail.com.com 
 - LinkedIn: [linkedin.com/in/salman-alkozay-13aaa6296?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://linkedin.com/in/salman-alkozay)
-- YouTube: [youtube.com/@salman_alkozay?si=JW1nDI5_TaJ28Z5-](https://youtube.com/@salman_alkozay)
-
-
+- YouTube: [https://youtube.com/@alkozay_salman?si=ZhVWa4beEcDvII8w](https://youtube.com/@alkozay_salman)
 
 
 
