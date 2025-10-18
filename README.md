@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I’m passionate about web development, open-sourc
 
 
 ## 🛠️ Skills & Tools
-HTML | CSS | JavaScript | Python | Django | Tailwind CSS | Git | GitHub | PostgreSQL
+HTML | CSS | JavaScript | React | Python | Django | Tailwind CSS | Git | GitHub | PostgreSQL
 
 
 
