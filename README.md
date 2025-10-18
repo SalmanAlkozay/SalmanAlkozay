@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Salman Alkozay 
+🎓 Computer Science Student | 💻 Web Developer | 🤖 AI Enthusiast 
 
-<!--
-**SalmanAlkozay/SalmanAlkozay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m passionate about web development, open-source projects, and learning artificial intelligence.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## 🌱 About Me
+- 🎓 Studying Computer Science at Kunduz University 
+- 🌐 Currently learning Web Development (HTML, CSS, Tailwind, JS, Django) 
+- 🤖 Interested in AI & Machine Learning for future projects 
+- 🎯 Goal: To become a professional web developer and AI expert
+
+
+
+
+
+## 🛠️ Skills & Tools
+HTML | CSS | JavaScript | Python | Django | Tailwind CSS | Git | GitHub | PostgreSQL
+
+
+
+
+
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+
+
+
+
+
+
+## 📈 GitHub Stats
+![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=salman-khan&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salman-khan&layout=compact&theme=radical)
+
+
+
+
+
+## 📫 How to reach me
+- Email: sk8621489@gmail.com.com 
+- LinkedIn: [linkedin.com/in/salman-alkozay-13aaa6296?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://linkedin.com/in/salman-alkozay)
+- YouTube: [youtube.com/@salman_alkozay?si=JW1nDI5_TaJ28Z5-](https://youtube.com/@salman_alkozay)
+
+
+
+
+
+## 💡 Quote
+> “Learning never stops — every day is a chance to improve and inspire others.”
