@@ -28,6 +28,7 @@ HTML | CSS | JavaScript | React | Python | Django | Tailwind CSS | Git | GitHub 
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=typescript)
 
 
 
